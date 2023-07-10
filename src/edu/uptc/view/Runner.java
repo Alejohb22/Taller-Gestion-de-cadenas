@@ -225,7 +225,7 @@ public class Runner {
                 JOptionPane.showMessageDialog(null, number + " no es un número mágico.");
             }
         } catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "Error: Entrada no válida. Debe ingresar un número entero.");
+            JOptionPane.showMessageDialog(null, "Error: Entrada no válida.Debe ingresar un número entero.");
         }
     }
 

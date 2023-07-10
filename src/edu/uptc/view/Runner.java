@@ -50,6 +50,7 @@ public class Runner {
                         // Realizar acciones para la opción 4
                         break;
                     case '5':
+				
                         numero_magico();
                         break;
                     case '6':

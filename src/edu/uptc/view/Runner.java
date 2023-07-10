@@ -206,6 +206,7 @@ public class Runner {
         
         return result.toString();
     }
+	
 	private static void numero_magico(){
 		magic();
 	}
